@@ -6,7 +6,7 @@
 #define RUNNING 1 
 #define NOT_RUNNING 0  
 #define UNDER_REPAIR 2
-#define IN_OTHER_DEPOT 3
+#define IN_OTHER_DEPOT 3 
 #define TOTAL_SEATS 40
 
 struct Bus {
