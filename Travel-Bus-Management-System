@@ -2,7 +2,7 @@
 #include <stdlib.h> 
 #include <string.h>  
 #include <time.h> 
-
+ 
 #define RUNNING 1 
 #define NOT_RUNNING 0  
 #define UNDER_REPAIR 2
