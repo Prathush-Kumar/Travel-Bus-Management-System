@@ -2,7 +2,7 @@
     
 # Introduction
 
-The Travel Bus Management System is a C-based program that helps manage and track bus operations. It allows the admin to view bus statuses and manage bus bookings for passengers. The system provides functionalities such as:
+The Travel Bus Management System is a C-based program that helps manage and track bus operations. It allows the admin to view bus statuses and manage bus bookings for passengers. The system provides functionalities such as: 
 
 Admin can view buses' running status, buses under repair, and buses in other depots.
 
